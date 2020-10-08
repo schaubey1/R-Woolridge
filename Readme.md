@@ -1,6 +1,6 @@
 Dependencies:
 
-  -Woolridge Dataset: http://fmwww.bc.edu/ec-p/data/wooldridge/datasets.list.html
+  -Woolridge Dataset: http://fmwww.bc.edu/ec-p/data/wooldridge/datasets.list.html  
   -R/RStudio
 
 This R model answers the following:
